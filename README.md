@@ -9,7 +9,7 @@ The file "Results_of_Examples.ipynb" contains the results of applying functions 
 The file "Julia Homotopy Continuation 6R-Serial Link Robot.ipynb" contains solutions of the 6R-serial link robot with the same parameters as defined in "Example 10" in "Data_for_Examples.py". This file is a *Jupyter Notebook* using **Julia v.1.8.2**.
 
 The file "Homotopy_Contiuation_and_Certification" contains callable function for all version of homotopy continuation and ceritification used thoughout the thesis. This file is a *Jupyter Notebook* using **Python v.3.8.8**.
-Only few of the version of functions are designed to work in general, which are the following:
+The functions are related to specific algorithms, which are stated in the file. Only few of the version of functions are designed to work in general, which are the following:
  - Homotopy_Continuation_4
  - Homotopy_Continuation_5
  - Homotopy_Continuation_A
